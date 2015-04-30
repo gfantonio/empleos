@@ -1,0 +1,20 @@
+#columna{
+	margin: -5px 20px 0px 0px;
+	float:left;
+	color: #666;
+}
+#seccionextensa {
+	width: 1050px;
+	padding: 20px 40px;
+	background: #FFF;
+	height: auto;
+}
+
+#centrado {
+	text-align: center;
+
+}
+
+#lista li {
+	font-size: 11px;
+}
